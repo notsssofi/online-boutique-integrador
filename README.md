@@ -28,7 +28,7 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 | [checkoutservice](/src/checkoutservice)             | Go            | Recupera el carrito del usuario, arma la orden y coordina el pago, el envío y el correo de confirmación.                            |
 | [recommendationservice](/src/recommendationservice) | Python        | Recomienda otros productos en base a los que hay en el carrito.                                                                      |
 | [adservice](/src/adservice)                         | Java          | Proporciona anuncios de texto según palabras clave del contexto.                                                                                   |
-| [loadgenerator](/src/loadgenerator)                 | Genera carga automáticamente enviando peticiones que simulan flujos reales de usuarios en la tienda.                                              |
+| [loadgenerator](/src/loadgenerator)                 | Python/Locust | Genera carga automáticamente enviando peticiones que simulan flujos reales de usuarios en la tienda.
 
 ## Screenshots
 
