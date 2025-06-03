@@ -2,20 +2,20 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "Sunglasses",
-            "description": "Add a modern touch to your outfits with these sleek aviator sunglasses.",
+            "name": "Rubor en polvo",
+            "description": "Rubor en polvo compacto EXTREME",
             "picture": "/static/img/products/sunglasses.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 19,
+                "units": 25,
                 "nanos": 990000000
             },
             "categories": ["accessories"]
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Tank Top",
-            "description": "Perfectly cropped cotton tank, with a scooped neckline.",
+            "name": "Shampoo Head & shoulders",
+            "description": "Shampoo Control Anti Caspa H&S",
             "picture": "/static/img/products/tank-top.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -26,68 +26,68 @@
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "Watch",
-            "description": "This gold-tone stainless steel watch will work with most of your outfits.",
+            "name": "Crema de Enjuague - Candy Love",
+            "description": "Crema de enjuague de HOMESPA - Candy Love",
             "picture": "/static/img/products/watch.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 109,
+                "units": 19,
                 "nanos": 990000000
             },
             "categories": ["accessories"]
         },
         {
             "id": "L9ECAV7KIM",
-            "name": "Loafers",
-            "description": "A neat addition to your summer wardrobe.",
+            "name": "Labial AVON",
+            "description": "Labial PEACH AVON - Larga duracion",
             "picture": "/static/img/products/loafers.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 89,
+                "units": 23,
                 "nanos": 990000000
             },
             "categories": ["footwear"]
         },
         {
             "id": "2ZYFJ3GM2N",
-            "name": "Hairdryer",
-            "description": "This lightweight hairdryer has 3 heat and speed settings. It's perfect for travel.",
+            "name": "Crema Loreal - AGE PERFECT",
+            "description": "Crema anti arrugas de Loreal con jalea real",
             "picture": "/static/img/products/hairdryer.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 24,
+                "units": 64,
                 "nanos": 990000000
             },
             "categories": ["hair", "beauty"]
         },
         {
             "id": "0PUK6V6EV0",
-            "name": "Candle Holder",
-            "description": "This small but intricate candle holder is an excellent gift.",
+            "name": "Secador de pelo - Candle ",
+            "description": "Nuevo secador de pelo de candle new generation",
             "picture": "/static/img/products/candle-holder.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 18,
+                "units": 180,
                 "nanos": 990000000
             },
             "categories": ["decor", "home"]
         },
         {
             "id": "LS4PSXUNUM",
-            "name": "Salt & Pepper Shakers",
-            "description": "Add some flavor to your kitchen.",
+            "name": "Kit de ANEW CLINICAL",
+            "description": "Incluye una crema dermocosmetica y un serum de la ultima campaña",
             "picture": "/static/img/products/salt-and-pepper-shakers.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 18,
+                "units": 48,
                 "nanos": 490000000
             },
             "categories": ["kitchen"]
         },
         {
             "id": "9SIQT8TOJO",
-            "name": "Bamboo Glass Jar",
-            "description": "This bamboo glass jar can hold 57 oz (1.7 l) and is perfect for any kitchen.",
+            "name": "Colgate Pasta de Dientes",
+            "description": "Pasta de Dientes - cavity protection de COlgate",
             "picture": "/static/img/products/bamboo-glass-jar.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -98,12 +98,12 @@
         },
         {
             "id": "6E92ZMYYFZ",
-            "name": "Mug",
-            "description": "A simple mug with a mustard interior.",
+            "name": "Kit de Elvive Ultra",
+            "description": "Este kit incluye los 5 productos ultra de Elvive",
             "picture": "/static/img/products/mug.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 8,
+                "units": 80,
                 "nanos": 990000000
             },
             "categories": ["kitchen"]
