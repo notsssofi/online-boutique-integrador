@@ -1,0 +1,10 @@
+namespace: mesaura-prod
+
+resources:
+  - ../../base
+  - namespace.yaml
+
+configMapGenerator:
+  - name: env-config
+    literals:
+      - ENV=production

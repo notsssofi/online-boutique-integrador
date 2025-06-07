@@ -1,0 +1,10 @@
+namespace: mesaura-test
+
+resources:
+  - ../../base
+  - namespace.yaml
+
+configMapGenerator:
+  - name: env-config
+    literals:
+      - ENV=testing
