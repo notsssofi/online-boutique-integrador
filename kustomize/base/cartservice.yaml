@@ -138,7 +138,8 @@ spec:
             memory: 200Mi
       volumes:
       - name: redis-data
-        emptyDir: {}
+        persistentVolumeClaim:
+          claimName: redis-pvc
 ---
 apiVersion: v1
 kind: Service

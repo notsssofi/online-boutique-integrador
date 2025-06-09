@@ -4,6 +4,7 @@ resources:
   - ../../base
   - namespace.yaml
   - frontend-hpa.yaml
+  - redis-pvc.yaml
 
 configMapGenerator:
   - name: env-config
