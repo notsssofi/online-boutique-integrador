@@ -3,6 +3,7 @@ namespace: mesaura-prod
 resources:
   - ../../base
   - namespace.yaml
+  - frontend-hpa.yaml
 
 configMapGenerator:
   - name: env-config
